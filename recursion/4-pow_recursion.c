@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * sammigmar holberton task 4
+  * sammigmar holberton task 4
   * _pow_recursion - function name
   * @x: parameter 1
   * @y: parameter 2
