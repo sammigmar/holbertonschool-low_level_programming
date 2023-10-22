@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-/**
- * main - prints the name of the file
- *
- * Return: Always 0 (Success)
- */
-int ain(void)
+int main()
 {
-	printf("%s\n", __FILE__);
-	return (0);
+  printf("Date : %s\n", __DATE__);
+  printf("Time : %s\n", __TIME__);
+  printf("File : %s\n", __FILE__);
+  printf("Line : %d\n", __LINE__);
+  printf("STDC / ANSI : %d\n", __STDC__);
+
+  return 0;
 }
