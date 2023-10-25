@@ -7,7 +7,7 @@
 	 * @name: First member
 	 * @age: Second member
 	 * @owner: Third member
-	 *
+	 * samuel miguel martin
 	 * Description: Longer description
 	 */
 	struct dog
